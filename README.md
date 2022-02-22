@@ -1,2 +1,2 @@
 my first readme
-updating the readme from git.com
+and now updating the readme from git.com
